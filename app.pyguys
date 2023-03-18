@@ -1,0 +1,4 @@
+print("Hello,guys")
+n=5
+string="Hello,guys"
+print(string * n)
